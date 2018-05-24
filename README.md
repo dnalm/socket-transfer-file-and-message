@@ -3,7 +3,7 @@ send and receive message and file by python3 socket.
 
 You could use a sample cli tool on it, could also invoke the methods in your project.
 
-Could you please click :star: if my code help you?
+Could you please click :star: if my code help you? Thank you.
 
 ## Usage:
 
