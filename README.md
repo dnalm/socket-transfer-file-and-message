@@ -3,7 +3,7 @@ send and receive message and file by python socket
 
 You could use a sample cli tool on it, could also invoke the methods in your project.
 
-##Usage:
+###Usage:
 ***
 ###Configuration
     You should modify config.json.
