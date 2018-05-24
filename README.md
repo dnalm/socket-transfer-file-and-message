@@ -19,6 +19,7 @@ You could use a sample cli tool on it, could also invoke the methods in your pro
     send <ip> -m <message>    send a message to target IP
 ####Send a file
     send <ip> -f <filename>   send a file to target IP
+***
 ####quit
     quit                      quit this program safety
     
