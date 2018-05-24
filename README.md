@@ -1,5 +1,5 @@
 # socket-transit-file-and-message
-send and receive message and file by python socket.
+send and receive message and file by python3 socket.
 
 You could use a sample cli tool on it, could also invoke the methods in your project.
 
