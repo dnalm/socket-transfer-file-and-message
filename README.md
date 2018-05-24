@@ -4,6 +4,7 @@ send and receive message and file by python socket
 You could use a sample cli tool on it, could also invoke the methods in your project.
 
 ##Usage:
+***
 ###Configuration
     You should modify config.json.
     *local_ip: Your local address IP. (essential && important)
