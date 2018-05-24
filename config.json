@@ -1,0 +1,5 @@
+{
+  "local_ip":"192.168.5.1",
+  "receive_port":{"message": 9990, "file":9991},
+  "save_position": "receive/"
+}
