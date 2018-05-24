@@ -7,10 +7,10 @@ You could use a sample cli tool on it, could also invoke the methods in your pro
 
 ### Configuration
     You should modify config.json.
-   *local_ip: Your local address IP. (*essential && important*)
-   *receive_port: Config the ports to receive files or messages.
-   *save_position: The position you want to save the files to.
-
+   * local_ip: Your local address IP. (*essential && important*)
+   * receive_port: Config the ports to receive files or messages.
+   * save_position: The position you want to save the files to.
+***
 ### Cli Usage
     You could input 'help' to get more message.
 #### Receive
